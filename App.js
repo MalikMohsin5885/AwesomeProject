@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello world i am using emulator</Text>
+      <Text>Hello world i am using emulat   or</Text>
       <StatusBar style="auto" />
     </View>
   );
